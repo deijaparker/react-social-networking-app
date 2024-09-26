@@ -47,7 +47,7 @@ const getNewsItem = () => ({
   title: "Latest Software Engineering Trends",
   message: "Stay updated with the newest frameworks and tech stacks.",
   imgSrc:
-  "https://via.placeholder.com/300x100.png?text=Software+News+Placeholder",
+  "https://images.pexels.com/photos/4057663/pexels-photo-4057663.jpeg?auto=compress&cs=tinysrgb&w=600",
 });
 
 // Generate network friends
